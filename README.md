@@ -4,7 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:188623nc@gmail.com)
 [![Discord Shield](https://discordapp.com/api/guilds/571556611517317120/widget.png?style=shield)](https://discord.gg/EwQ5HGP)
-![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
 
 Hello my names nick, welcome to my github page
 
@@ -31,4 +30,3 @@ Hello my names nick, welcome to my github page
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 </p>
-![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
