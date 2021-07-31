@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:188623nc@gmail.com)
 [![Discord Shield](https://discordapp.com/api/guilds/571556611517317120/widget.png?style=shield)](https://discord.gg/EwQ5HGP)
 
-Hello i am nick, welcome to my github page
+Hello my names nick, welcome to my github page
 
 <img align="right" alt="img" src="https://avatars.githubusercontent.com/u/42303444?s=400&v=4" width="50%" height="auto" />
 
