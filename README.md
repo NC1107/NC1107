@@ -30,6 +30,4 @@ Hello my names nick, welcome to my github page
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
 </p>
-<p>
-![Discord Banner 4](https://discordapp.com/api/guilds/571556611517317120/widget.png?style=banner4)
-</p>
+![Discord Banner 4](https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4)
