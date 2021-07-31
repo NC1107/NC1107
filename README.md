@@ -1,5 +1,4 @@
 ### Hi there 👋 
-### This is Nick!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NC1107)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
@@ -7,7 +6,7 @@
 
 Hello i am nick, welcome to my github page
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/NC1107/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/NC1107/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
