@@ -6,7 +6,7 @@
 
 Hello i am nick, welcome to my github page
 
-<img align="right" alt="img" src="https://github.com/NC1107/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://avatars.githubusercontent.com/u/42303444?s=400&v=4" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
