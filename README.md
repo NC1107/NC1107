@@ -11,11 +11,11 @@ Hello my names nick, welcome to my github page
 
 
 #### 🌱 Things I am currently working on: 
--Currently im attending UMBC trying to recieve my bachelors in Computer Science. 
+-Currently im attending UMBC trying to recieve my bachelors in Computer Science.      
 -Improving my main focus in CS, machine learning. 
 #### :muscle: Things I am challenging myself with:
 -Improving my abilities when it comes to a fullstack workload
--Working more efficently, along with working more overall.
+-Working more efficently, along with working more overall.    
 -getting more into reverse engineering games.
 #### :computer: Programming languages and tools: 
 <p>
