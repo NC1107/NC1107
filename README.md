@@ -1,6 +1,6 @@
 ### Hello there, I'm Nicholas Conn 👋
 
-<div align="center">
+<div align="left">
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
@@ -9,13 +9,13 @@
 
 </div>
 
-![Nicholas Conn](https://avatars.githubusercontent.com/u/42303444?s=400&v=4)
 
 #### 🎓 Education:
 - Bachelor of Science in Computer Science, Senior Year, UMBC.
+  - Graduating Spring 2024
 
 #### 💼 What I'm working on:
-- Fine-tuning my machine learning algorithms.
+- Fine-tuning my machine learning algorithms and abilities.
 - Developing scalable full-stack applications.
 
 #### 💪 Challenges I'm tackling:
@@ -23,7 +23,7 @@
 - Exploring the intricacies of reverse engineering in gaming.
 
 #### 🛠️ Technologies & Tools:
-<p align="center">
+<p align="left">
 <code><img height="30" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python"></code>
 <code><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="JavaScript"></code>
@@ -32,13 +32,14 @@
 <code><img height="30" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="Netlify"></code>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=NC1107&show_icons=true&hide_border=true" />
 </div>
 
 #### 🌟 Recent Achievements:
-- [List any recent awards, certifications, or projects completed]
+- TechBuffalo 2024 Hackathon Winners
+- M&T Technology Program Intern
 
 #### 📫 Get in Touch:
-- For collaborations or inquiries, feel free to contact me via email or LinkedIn.
+- For collaborations or inquiries, feel free to contact me via Github or LinkedIn.
 
