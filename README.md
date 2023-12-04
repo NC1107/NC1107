@@ -4,9 +4,7 @@
   
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:188623nc@gmail.com)
-[![Discord](https://img.shields.io/discord/571556611517317120?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/EwQ5HGP)
-
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nickpconn@gmail.com)
 </div>
 
 
