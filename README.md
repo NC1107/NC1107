@@ -11,7 +11,6 @@
 
 **Software Developer** | **AI/ML Enthusiast** | **Self-Hosting Enthusiast** 
 
----
 
 ## 🎓 Education
 
@@ -21,7 +20,6 @@
 
 **Relevant Coursework:** Data Structures and Algorithms, Object Oriented Programming, Embedded Systems, Hardware Architecture Design Principles
 
----
 
 ## 💼 Professional Experience
 
@@ -34,7 +32,6 @@
 - Configured and deployed servers at ~10 customer locations
 - Conducted bi-weekly quality assurance testing of AV systems
 
----
 
 ## 🛠️ Technical Skills
 
@@ -44,7 +41,6 @@
 **Cloud Platforms:** AWS (Data Center Migration Experience)  
 **Certifications:** CompTIA A+
 
----
 
 ## 🚀 Current Projects & Focus
 
@@ -52,7 +48,6 @@
 - ☁️ **AWS Migration** - Using Terraform, Python, and Shell scripts to migrate data center infrastructure to AWS
 - 🏛️ **Government Consulting** - Developing strategies to reduce spending on active projects
 
----
 
 ## � Achievements
 
@@ -61,7 +56,6 @@
 - 🎓 Graduated with **specialization in AI/ML** from UMBC
 - 💰 Successfully organized and funded a **$10K community hackathon**
 
----
 
 ## 📊 GitHub Stats
 
