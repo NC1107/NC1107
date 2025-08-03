@@ -2,12 +2,7 @@
 
 <div align="left">
 
-[![GitHub]## 🏆 Achievements
-
-- 💼 Currently working at **Accenture Federal Services** as a Software Developer
-- 🎯 Completed **M&T Technology Program** internship
-- 🎓 Graduated with **specialization in AI/ML** from UMBC
-- 💰 Successfully organized and funded a **$10K community hackathon** for 500+ high school students://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nickpconn@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://nc1107.github.io/)
@@ -24,6 +19,8 @@
 **GPA:** 3.5/4.0
 
 **Relevant Coursework:** Data Structures and Algorithms, Object Oriented Programming, Embedded Systems, Hardware Architecture Design Principles
+
+**Extracurricular Activities:** Member of UMBC Billiard Club and Rock Climbing Club
 
 
 ## 💼 Professional Experience
@@ -60,15 +57,15 @@
 
 - 🦀 **Rust Graphics Programming** - Teaching myself Rust through hands-on graphics programming projects
 - ☁️ **AWS Migration** - Using Terraform, Python, and Shell scripts to migrate data center infrastructure to AWS
-- 🏛️ **Government Consulting** - Developing strategies to reduce spending on active projects
+- 🏛️ **Government Systems Modernization** - Leading migration of legacy systems to modern cloud infrastructure
 
 
-## � Achievements
+## 🏆 Achievements
 
+- 💼 Currently working at **Accenture Federal Services** as a Software Developer
 - 🎯 Completed **M&T Technology Program** internship
-- 💼 Currently providing **government consulting** services
 - 🎓 Graduated with **specialization in AI/ML** from UMBC
-- 💰 Successfully organized and funded a **$10K community hackathon**
+- 💰 Successfully organized and funded a **$10K community hackathon** for 500+ high school students
 
 
 ## 📊 GitHub Stats
