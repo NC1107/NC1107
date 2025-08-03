@@ -2,7 +2,12 @@
 
 <div align="left">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
+[![GitHub]## 🏆 Achievements
+
+- 💼 Currently working at **Accenture Federal Services** as a Software Developer
+- 🎯 Completed **M&T Technology Program** internship
+- 🎓 Graduated with **specialization in AI/ML** from UMBC
+- 💰 Successfully organized and funded a **$10K community hackathon** for 500+ high school students://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/NC1107)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:nickpconn@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox-Browser&logoColor=white)](https://nc1107.github.io/)
@@ -23,6 +28,11 @@
 
 ## 💼 Professional Experience
 
+**Accenture Federal Services** - *Software Developer* | Present  
+- Leading migration of legacy systems and data center infrastructure to AWS cloud platform
+- Developing and implementing infrastructure as code solutions using Terraform, Python, and Shell scripts
+- Modernizing government systems to improve scalability, reliability, and maintainability
+
 **M&T Bank** - *Technology Intern* | May 2023 – Aug 2023  
 - Participated in the bank's Technology Intern Program, gaining hands-on experience in enterprise software development
 - Created a tool to remove complexity layers within Informatica pathways and data transformations
@@ -31,6 +41,10 @@
 **Crestron Electronics** - *AV Technician* | May 2019 – Aug 2019  
 - Configured and deployed servers at ~10 customer locations
 - Conducted bi-weekly quality assurance testing of AV systems
+
+**St. Charles Hackathon** - *Lead Organizer* | Jun 2018 – Nov 2018  
+- Managed communications between event staff, donors, and volunteers
+- Successfully fundraised $10,000 to host a community hackathon for ~500 high school students
 
 
 ## 🛠️ Technical Skills
