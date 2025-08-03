@@ -1,4 +1,4 @@
-# Hi there, I'm Nicholas Conn 👋
+# Hi there, I'm Nick 👋
 
 <div align="left">
 
@@ -33,10 +33,6 @@
 **Crestron Electronics** - *AV Technician* | May 2019 – Aug 2019  
 - Configured and deployed servers at ~10 customer locations
 - Conducted bi-weekly quality assurance testing of AV systems
-
-**St. Charles Hackathon** - *Lead Organizer* | Jun 2018 – Nov 2018  
-- Managed communications between event staff, donors, and volunteers
-- Successfully fundraised $10,000 to host a community hackathon for ~500 high school students
 
 ---
 
@@ -86,7 +82,6 @@ I'm always interested in collaborating on innovative projects, especially those 
 - 🌐 **Portfolio:** [nc1107.github.io](https://nc1107.github.io/)
 - 💼 **LinkedIn:** [nicholas-conn](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
 - 📧 **Email:** [nickpconn@gmail.com](mailto:nickpconn@gmail.com)
-- 📱 **Phone:** [301-653-6996](tel:301-653-6996)
 
 ---
 
