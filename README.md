@@ -9,7 +9,7 @@
 
 </div>
 
-**Software Developer** | **AI/ML Enthusiast** | **M&T Technology Program**
+**Software Developer** | **AI/ML Enthusiast** | **Self-Hosting Enthusiast** 
 
 ---
 
@@ -56,7 +56,7 @@
 
 ## � Achievements
 
-- 🎯 Secured position in the **M&T Technology Program**
+- 🎯 Completed **M&T Technology Program** internship
 - 💼 Currently providing **government consulting** services
 - 🎓 Graduated with **specialization in AI/ML** from UMBC
 - 💰 Successfully organized and funded a **$10K community hackathon**
@@ -70,23 +70,5 @@
 ![Nicholas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NC1107&show_icons=true&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NC1107&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in collaborating on innovative projects, especially those involving AI/ML, systems programming, or cloud infrastructure. Feel free to reach out!
-
-- 🌐 **Portfolio:** [nc1107.github.io](https://nc1107.github.io/)
-- 💼 **LinkedIn:** [nicholas-conn](https://www.linkedin.com/in/nicholas-conn-41b1b120a/)
-- 📧 **Email:** [nickpconn@gmail.com](mailto:nickpconn@gmail.com)
-
----
-
-<div align="center">
-
-*"Building the future through code, one commit at a time."*
 
 </div>
