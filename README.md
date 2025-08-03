@@ -16,9 +16,8 @@
 ---
 
 #### 🌟 Recent Achievements:
-- Hosted a hackathon for Maryland high schools, raising over $15,000.
 - Secured a position in the M&T Technology Program.
-- Currently consulting for the government.
+- Currently consulting for the government, focusing on strategies to reduce spending on active projects.
 
 ---
 
