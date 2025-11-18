@@ -1,14 +1,17 @@
-# Nicholas Conn
-
-Software developer passionate about programming, problem-solving, and continuous learning. I enjoy self-hosting and automation, and I explore graphics and systems programming in Rust. Recently, my professional work has centered on cloud migration with AWS and Terraform.
-
 ## About
-I run a small homelab and self-host a few services. I like building useful things, keeping them simple, organized, and reliable while still being scalable. I enjoy rock climbing, pool, and Advent of Code.
+Software developer passionate about programming, problem-solving, and continuous learning. I enjoy self-hosting and automation, and I explore graphics and systems programming in Rust. I like building useful things, keeping them simple, organized, and reliable while still being scalable. My latest hobby involves managing a homelab and misc. services to avoid paying for 30 different subscriptions. I also enjoy rock climbing, pool, and Advent of Code.
 
 ## Contact
 - Website: https://nc1107.github.io/
 - LinkedIn: https://www.linkedin.com/in/nicholas-conn-41b1b120a/
 - Email: nickpconn@gmail.com
+
+## Skills
+- Languages: Java, Python, C++, Rust, HTML/CSS, Arduino
+- Tools: Git, Unity, Unreal Engine, Blender, Terraform, Shell scripting
+- Cloud: AWS, Google Cloud
+- Focus areas: Systems/Infrastructure, Self-hosting, Web, AI/ML, Graphics Programming
+- Certifications: CompTIA A+
 
 ## Experience
 **Accenture Federal Services** — Software Developer (Present)
@@ -33,13 +36,6 @@ I run a small homelab and self-host a few services. I like building useful thing
 GPA: 3.5/4.0
 
 Selected coursework: Data Structures & Algorithms, Object-Oriented Programming, Embedded Systems, Computer Architecture
-
-## Skills
-- Languages: Java, Python, C++, Rust, HTML/CSS, Arduino
-- Tools: Git, Unity, Unreal Engine, Blender, Terraform, Shell scripting
-- Cloud: AWS, Google Cloud
-- Focus areas: Systems/Infrastructure, Self-hosting, Web, AI/ML, Graphics Programming
-- Certifications: CompTIA A+
 
 ## Current Projects
 - Homelab and self-hosted services (reverse proxy, monitoring, IaC, backups)
