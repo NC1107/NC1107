@@ -11,5 +11,4 @@ Software developer passionate about programming, problem-solving, and continuous
 - Tools: Git, Unity, Unreal Engine, Blender, Terraform, Shell scripting
 - Cloud: AWS, Google Cloud
 - Focus areas: Systems/Infrastructure, Self-hosting, Web, AI/ML, Graphics Programming
-- Certifications: CompTIA A+
 
